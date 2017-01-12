@@ -3,7 +3,7 @@
  */
 public class Anna {
 
-    public String cheer() {
-        return "fuchsit";
+    public void cheer(String teamName) {
+        System.out.println(teamName);
     }
 }
