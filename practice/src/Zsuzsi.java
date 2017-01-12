@@ -3,6 +3,6 @@
  */
 public class Zsuzsi {
     public String greet() {
-        return "Zsuzsi";
+        return "Greetings";
     }
 }
