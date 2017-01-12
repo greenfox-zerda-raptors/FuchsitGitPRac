@@ -3,7 +3,8 @@
  */
 public class Reka {
     
-    public void count(int myAge) {
-        System.out.println(myAge);
+    public void count(int myBirthMonth) {
+        myBirthMonth = 8;
+        System.out.println(myBirthMonth);
     }
 }
