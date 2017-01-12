@@ -4,6 +4,6 @@
 public class Anna {
 
     public void cheer(String teamName) {
-        System.out.println(teamName);
+        System.out.println("javajava");
     }
 }
