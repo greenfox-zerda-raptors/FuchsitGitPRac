@@ -2,7 +2,8 @@
  * Created by Zsuzska on 2017. 01. 12..
  */
 public class Zsuzsi {
-    public String greet() {
-        return "Zsuzsi";
+    public String greet(String hello) {
+        hello = "Hello";
+        return hello + "Zsuzsi";
     }
 }
