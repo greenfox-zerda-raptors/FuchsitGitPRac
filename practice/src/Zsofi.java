@@ -4,7 +4,7 @@
  */
 public class Zsofi {
 
-    public String future(String fuckfuchs) {
-        return fuckfuchs;
+    public void future() {
+        System.out.println("dragon");
     }
 }
