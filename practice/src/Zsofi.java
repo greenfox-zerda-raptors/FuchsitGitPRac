@@ -5,6 +5,8 @@
 public class Zsofi {
 
     public String future(String fuckfuchs) {
+
         return "Your future looks like" + fuckfuchs;
+
 
 }
