@@ -3,7 +3,7 @@
  */
 public class Reka {
 
-    public void count(int myAge) {
-        System.out.println(myAge);
+    public void count(int myAge, String myName) {
+        System.out.println(myAge + myName);
     }
 }
