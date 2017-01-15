@@ -4,8 +4,6 @@
  */
 public class Zsofi {
 
-    public void future(int age, String name) {
-
-        System.out.println("The" + age + "year old animal is a " + name);
-    }
+    public String future(String fuckfuchs) {
+        return fuckfuchs;
 }
