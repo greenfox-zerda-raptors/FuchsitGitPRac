@@ -4,7 +4,8 @@
  */
 public class Zsofi {
 
-    public void future() {
-        System.out.println("dragon");
+    public void future(int age, String name) {
+
+        System.out.println("The" + age + "year old animal is a " + name);
     }
 }
