@@ -3,7 +3,6 @@
  */
 public class Zsuzsi {
     public String greet(String hello) {
-        hello = "Hello";
-        return hello + "Zsuzsi";
+        System.out.println("Greetings for the " + hello);
     }
 }
