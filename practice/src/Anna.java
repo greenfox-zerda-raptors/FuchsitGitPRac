@@ -3,7 +3,7 @@
  */
 public class Anna {
 
-    public void cheer(String teamName) {
-        System.out.println("javajava");
+    public void cheer(String name) {
+        System.out.println("Cheer for the" + name);
     }
 }
