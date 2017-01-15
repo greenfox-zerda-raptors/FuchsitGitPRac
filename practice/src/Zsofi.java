@@ -6,5 +6,4 @@ public class Zsofi {
 
     public String future(String fuckfuchs) {
         return fuckfuchs;
-    }
 }

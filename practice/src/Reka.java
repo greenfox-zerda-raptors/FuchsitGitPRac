@@ -7,4 +7,5 @@ public class Reka {
         myBirthMonth = 8;
         System.out.printf("Counting the countless %d" + myBirthMonth);
     }
+
 }
